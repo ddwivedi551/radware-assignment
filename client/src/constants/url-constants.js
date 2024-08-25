@@ -1,5 +1,5 @@
 // urls.js
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "http://localhost:3001/api";
 
 export const API_URLS = {
     GET_USER: `${BASE_URL}/users`,
