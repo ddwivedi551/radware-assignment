@@ -58,4 +58,4 @@ This command stops and removes the containers, but the Docker images remain cach
 Once the application is running, you can access it via your web browser:
 
 - **React Frontend**: Available at `http://localhost:3000`.
-- **Express Backend API**: Available at `http://localhost:5000`.
+- **Express Backend API**: Available at `http://localhost:3001`.
