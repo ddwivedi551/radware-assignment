@@ -1,7 +1,4 @@
-Certainly! Below is the full content of the `README.md` file that you can copy and paste directly into your project.
-
-```markdown
-# Full Stack Application with React and Express
+# Radware Assignment (React and Express)
 
 This repository contains a full-stack application with a React frontend and an Express backend. The application is containerized using Docker and Docker Compose to ensure seamless development and deployment.
 
@@ -62,11 +59,3 @@ Once the application is running, you can access it via your web browser:
 
 - **React Frontend**: Available at `http://localhost:3000`.
 - **Express Backend API**: Available at `http://localhost:5000`.
-
-
-### Instructions
-
-1. **Copy the entire content above** and paste it into a new file named `README.md` in the root of your project directory.
-2. **Replace placeholders** like `https://github.com/yourusername/your-repo-name.git` with your actual repository URL.
-
-This file is ready to use, and it provides clear instructions on how to install, run, and troubleshoot your full-stack application.
